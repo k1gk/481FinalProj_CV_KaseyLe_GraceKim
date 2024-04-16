@@ -1,1 +1,1 @@
-481FinalProj_CV_KaseyLe_GraceKim
+IAT481_FinalProject_ArtStylesIdentifier
